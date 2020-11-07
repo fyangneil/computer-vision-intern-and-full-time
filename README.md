@@ -26,4 +26,5 @@
 上海徐汇人工智能大厦
 实习时间：
 可以实习三个月以上，最好六个月
-联系方式fan.yang03@united-imaging.com
+联系方式:
+fan.yang03@united-imaging.com
