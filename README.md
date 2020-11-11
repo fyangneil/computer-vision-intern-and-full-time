@@ -1,4 +1,4 @@
-# comptuer-vision-intern
+# computer-vision-intern
 联影智能
 职位：
 计算机视觉算法实习生
