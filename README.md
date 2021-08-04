@@ -26,7 +26,7 @@
 实习时间：
 可以实习三个月以上，最好六个月
 联系方式:
-fan.yang03@united-imaging.com
+fan.yang03@uii-ai.com
 
 --------------------------------------------------------------
 职位：
@@ -54,4 +54,4 @@ fan.yang03@united-imaging.com
 工作地：
 上海徐汇人工智能大厦
 联系方式:
-fan.yang03@united-imaging.com
+fan.yang03@uii-ai.com
