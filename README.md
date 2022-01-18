@@ -1,4 +1,4 @@
-# computer vision intern
+# computer vision research intern (Boston)
 UII America, Inc., a subsidiary company of Shanghai United Imaging Intelligence Healthcare Co. Ltd. (UII), is building an organization of highly-motivated, talented and skillful AI experts and software developers to strengthen our R&D power and address the need of our innovative products in the USA market. United Imaging Intelligence (UII) is committed to providing AI solutions for medical devices, imaging, and diagnosis – to helping clients better understand and embrace AI. United Imaging Intelligence is led by two world-renown leaders in the AI industry. Together, they will lead UII in focusing on “empowerment” and “win-win.” UII empowers doctors and equipment in order for doctors and hospitals to win, for research institutions to win, and for third-party companies to win. UII America, Inc. is building a world-class research and development team in Cambridge, MA.
 
 
@@ -20,7 +20,7 @@ Fast prototyping, and developing cutting edge AI assets for the company;
 Contribute to intellectual properties, strong publications and transferring technologies into practical product solutions;
 Be ambitious to change future Healthcare with innovations.
 
-联影智能
+联影智能 (上海)
 职位：
 计算机视觉算法实习生
 
@@ -50,7 +50,7 @@ Be ambitious to change future Healthcare with innovations.
 fan.yang03@uii-ai.com
 
 --------------------------------------------------------------
-Sr. Research Scientist, Computer Vision and Robotics
+Sr. Research Scientist, Computer Vision and Robotics (Boston)
 
 
 UII America, Inc., a subsidiary company of Shanghai United Imaging Intelligence Healthcare Co. Ltd. (UII), is building an organization of highly-motivated, talented and skillful AI experts and software developers to strengthen our R&D power and address the need of our innovative products in the USA market. United Imaging Intelligence (UII) is committed to providing AI solutions for medical devices, imaging, and diagnosis – to helping clients better understand and embrace AI. United Imaging Intelligence is led by two world-renown leaders in the AI industry. Together, they will lead UII in focusing on “empowerment” and “win-win.” UII empowers doctors and equipment in order for doctors and hospitals to win, for research institutions to win, and for third-party companies to win. UII America, Inc. is building a world-class research and development team in Cambridge, MA.
@@ -86,7 +86,7 @@ Be ambitious to lead the changes in future Healthcare with innovations.
 
 
 职位：
-计算机视觉算法工程师
+计算机视觉算法工程师 (上海)
 
 主要职责:
 人工智能视觉算法和软件系统的开发、测试、集成、及部署，
