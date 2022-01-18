@@ -1,4 +1,5 @@
-# computer vision research intern (Boston)
+# United imaging intelligence (UII), USA
+## Computer vision research intern (Boston)
 UII America, Inc., a subsidiary company of Shanghai United Imaging Intelligence Healthcare Co. Ltd. (UII), is building an organization of highly-motivated, talented and skillful AI experts and software developers to strengthen our R&D power and address the need of our innovative products in the USA market. United Imaging Intelligence (UII) is committed to providing AI solutions for medical devices, imaging, and diagnosis – to helping clients better understand and embrace AI. United Imaging Intelligence is led by two world-renown leaders in the AI industry. Together, they will lead UII in focusing on “empowerment” and “win-win.” UII empowers doctors and equipment in order for doctors and hospitals to win, for research institutions to win, and for third-party companies to win. UII America, Inc. is building a world-class research and development team in Cambridge, MA.
 
 
@@ -20,37 +21,8 @@ Fast prototyping, and developing cutting edge AI assets for the company;
 Contribute to intellectual properties, strong publications and transferring technologies into practical product solutions;
 Be ambitious to change future Healthcare with innovations.
 
-联影智能 (上海)
-职位：
-计算机视觉算法实习生
-
-主要职责:
-人工智能视觉算法和软件系统的开发，并有发表顶会论文的机会。
-
-任职要求：
-计算机科学、软件工程、电子信息工程等相关专业硕士及以上学历
-有计算机视觉和图像处理应用相关开发经验
-具有机器学习、深度学习相关研发经验，比如：有使用Pytorch/Tensorflow/Caffe/Mxnet经验
-精通Python、C#/C++
-熟悉docker container
-熟悉Linux和Windows操作系统
-有良好的英语书面交流能力
-思路清晰、积极主动、勤奋好学、做事情目标感强，有良好的团队合作精神和沟通技巧
-
-加分项：
-有RGBD图像原理、三维点云处理、人体位姿识别、摄像机标定、目标检测、跟踪、分割经验优先
-有常用计算机接口及通信开发经验和CUDA及OpenCV开发经验优先
-有较强的英语口语交流能力优先
-
-工作地：
-上海徐汇人工智能大厦
-实习时间：
-可以实习三个月以上，最好六个月
-联系方式:
-fan.yang03@uii-ai.com
-
---------------------------------------------------------------
-Sr. Research Scientist, Computer Vision and Robotics (Boston)
+Feel free to email me fan.yang03@uii-ai.com
+## Sr. Research Scientist, Computer Vision and Robotics (Boston)
 
 
 UII America, Inc., a subsidiary company of Shanghai United Imaging Intelligence Healthcare Co. Ltd. (UII), is building an organization of highly-motivated, talented and skillful AI experts and software developers to strengthen our R&D power and address the need of our innovative products in the USA market. United Imaging Intelligence (UII) is committed to providing AI solutions for medical devices, imaging, and diagnosis – to helping clients better understand and embrace AI. United Imaging Intelligence is led by two world-renown leaders in the AI industry. Together, they will lead UII in focusing on “empowerment” and “win-win.” UII empowers doctors and equipment in order for doctors and hospitals to win, for research institutions to win, and for third-party companies to win. UII America, Inc. is building a world-class research and development team in Cambridge, MA.
@@ -84,9 +56,38 @@ Establish strong relationship with potential customers and clinical partners;
 Collaborate with other team members and contribute to a nice team-working environment;
 Be ambitious to lead the changes in future Healthcare with innovations.
 
+Feel free to email me fan.yang03@uii-ai.com
+# 联影智能 (上海) 
+## 职位：计算机视觉算法实习生
 
-职位：
-计算机视觉算法工程师 (上海)
+主要职责:
+人工智能视觉算法和软件系统的开发，并有发表顶会论文的机会。
+
+任职要求：
+计算机科学、软件工程、电子信息工程等相关专业硕士及以上学历
+有计算机视觉和图像处理应用相关开发经验
+具有机器学习、深度学习相关研发经验，比如：有使用Pytorch/Tensorflow/Caffe/Mxnet经验
+精通Python、C#/C++
+熟悉docker container
+熟悉Linux和Windows操作系统
+有良好的英语书面交流能力
+思路清晰、积极主动、勤奋好学、做事情目标感强，有良好的团队合作精神和沟通技巧
+
+加分项：
+有RGBD图像原理、三维点云处理、人体位姿识别、摄像机标定、目标检测、跟踪、分割经验优先
+有常用计算机接口及通信开发经验和CUDA及OpenCV开发经验优先
+有较强的英语口语交流能力优先
+
+工作地：
+上海徐汇人工智能大厦
+实习时间：
+可以实习三个月以上，最好六个月
+联系方式:
+fan.yang03@uii-ai.com
+
+--------------------------------------------------------------
+
+## 职位：计算机视觉算法工程师 (上海)
 
 主要职责:
 人工智能视觉算法和软件系统的开发、测试、集成、及部署，
